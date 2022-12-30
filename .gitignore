@@ -1,0 +1,7 @@
+# Default ignored files
+.idea
+build
+*.iml
+*.log
+_assets
+node_modules
